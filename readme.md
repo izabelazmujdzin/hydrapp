@@ -4,7 +4,7 @@
 
 2 litry czyli 8 szklanek!
 
-**Hydrapp pomoże Ci je liczyć. 
+**Hydrapp pomoże Ci je liczyć!**
 
 
 
