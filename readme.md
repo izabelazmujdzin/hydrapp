@@ -1,4 +1,4 @@
-![cover](../public/og.png)
+![cover](./gh/readme.png)
 
 Czy wiesz, że powinienes/powinnaś wypijać co najmniej 2 litry wody dziennie? 
 
